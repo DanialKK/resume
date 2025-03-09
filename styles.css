@@ -19,7 +19,7 @@ header {
 
 .skills-track {
     display: inline-block;
-    animation: marquee 30s linear infinite;
+    animation: marquee 30s linear infinite alternate;
 }
 
 .skill {
